@@ -2,8 +2,6 @@
 
 Agent 开发课程基础篇 Demo：原神小助手。
 
-课程视频：[Bilibili](https://www.bilibili.com/video/BV1MGnB63Eib/)
-
 ## 准备
 
 1. 安装 [Bun](https://bun.sh)。
